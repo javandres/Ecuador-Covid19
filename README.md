@@ -54,6 +54,8 @@ Y gracias por intentar hacer algo en tiempos de Netflix.
     
 6. [ArcGIS dasboard de ESRI-EC](https://esriec.maps.arcgis.com/apps/opsdashboard/index.html#/82919cbd50fc47c6b713c89b08c3ffdd)    
 
+7. [Sistema de Información Geográfico Online de UBICA Ecuador (https://geo.ubica.ec/#share=g-8d4dcfb125e497a47d5cb05746a5e028)]
+
 ### RECURSOS
 
 ## CSV
